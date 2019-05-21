@@ -16,9 +16,9 @@ bot.on("ready", () => {
 
 });
 
-const ownerid = "323160008411971585";
+const ownerid = "366253963768758272";
 
-const prefix = "-";
+const prefix = "S";
 
 bot.on('message', message => {
 
